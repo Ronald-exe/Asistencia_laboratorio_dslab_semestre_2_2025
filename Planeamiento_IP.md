@@ -6,7 +6,7 @@ I have to use the IP tools in vivado, after select the distributed Memory  Gener
 
 ## Step 2:
 We choose between ROM or Single_RAM_Port
-![ROM_RAM]([https://gitlab.com/el3313-conchal/lab4/-/blob/uniciclo_v1/Single-Cycle/images/Perifericos.jpg?ref_type=heads](https://github.com/Ronald-exe/Asistencia_laboratorio_dslab_semestre_2_2025/blob/main/fig/choose_between_ROM_RAM.png))
+![ROM_RAM](https://github.com/Ronald-exe/Asistencia_laboratorio_dslab_semestre_2_2025/blob/main/fig/choose_between_ROM_RAM.png)
 
 ## Step 3:
 ROM code.......
