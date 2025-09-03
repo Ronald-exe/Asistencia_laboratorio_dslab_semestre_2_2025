@@ -2,7 +2,7 @@
 
 ## Step 1:
 I have to use the IP tools in vivado, after select the distributed Memory  Generator.
-![IP_Tool]([https://gitlab.com/el3313-conchal/lab4/-/blob/uniciclo_v1/Single-Cycle/images/Perifericos.jpg?ref_type=heads](https://github.com/Ronald-exe/Asistencia_laboratorio_dslab_semestre_2_2025/blob/main/fig/Select_IP.png))
+![IP_Tool](https://github.com/Ronald-exe/Asistencia_laboratorio_dslab_semestre_2_2025/blob/main/fig/Select_IP.png)
 
 ## Step 2:
 We choose between ROM or Single_RAM_Port
