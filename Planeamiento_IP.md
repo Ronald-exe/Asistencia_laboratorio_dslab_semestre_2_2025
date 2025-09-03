@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lab 1: Introducción al diseño digital con HDL y herramientas EDA de síntesis
 ## 1. Abreviaturas y definiciones.
 FPGA: Field Programmable Gate Arrays.
@@ -31,5 +32,21 @@ Top_basys_seg       : Se instancia el reloj para la FPGA y se utiliza para la s�
 #### 2. Testbench.
 
 Se hicieron para vericar el comportamienta que se obtine en el sistema del site segmentos.
+=======
+# 1. IP design in Vivado...
+
+## Step 1:
+I have to use the IP tools in vivado, after select the distributed Memory  Generator.
+
+## Step 2:
+We choose between ROM or Single_RAM_Port
+
+## Step 3:
+ROM code.......
+
+RAM code.......
+
+
+>>>>>>> 4a661262f8a8ce8659cbb3dff7bf3107d29a8c97
 
 
